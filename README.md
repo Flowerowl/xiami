@@ -3,8 +3,10 @@ xiami
 
 虾米歌曲链接地址破解算法
 
-*  php版
+*  PHP版
 
-*  python版
+*  Python版
+
+*  Js版
 
 
